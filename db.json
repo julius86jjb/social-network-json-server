@@ -1,0 +1,81 @@
+{
+    "notifications": [],
+    "users": [
+      {
+        "id": "439f",
+        "userName": "User 1",
+        "email": "user1@email.com",
+        "password": "123456",
+        "followers": [
+          "a1ba",
+          "9570"
+        ],
+        "following": [
+          "a1ba",
+          "9570"
+        ],
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/social-network-book-613a7.appspot.com/o/uploads%2Favatars%2Fleader-7.png?alt=media&token=d2822e41-f207-48e6-a95b-8510f51e819c",
+        "last_login": "2024-07-11T09:50:32.672Z"
+      },
+      {
+        "id": "a1ba",
+        "userName": "User 2",
+        "email": "user2@email.com",
+        "password": "123456",
+        "followers": [
+          "439f",
+          "9570"
+        ],
+        "following": [
+          "439f",
+          "9570"
+        ],
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/social-network-book-613a7.appspot.com/o/uploads%2Favatars%2Fleader-4.png?alt=media&token=63849a4a-b7b5-4a2f-9c84-e84844d82547",
+        "last_login": "2024-07-11T09:08:10.031Z"
+      },
+      {
+        "id": "9570",
+        "userName": "User 3",
+        "email": "user3@email.com",
+        "password": "123456",
+        "followers": [
+          "439f",
+          "a1ba"
+        ],
+        "following": [
+          "439f",
+          "a1ba"
+        ],
+        "avatar": "https://firebasestorage.googleapis.com/v0/b/social-network-book-613a7.appspot.com/o/uploads%2Favatars%2F00003.png?alt=media&token=590b7b57-af4b-4740-93ae-ad80332f04b1",
+        "last_login": "2024-07-11T09:07:51.849Z"
+      },
+      {
+        "id": "3d2b",
+        "userName": "User 4",
+        "email": "user4@email.com",
+        "password": "123456",
+        "followers": [],
+        "following": [],
+        "avatar": "../../../../assets/images/default-avatar.jpg"
+      },
+      {
+        "id": "e476",
+        "userName": "User 5",
+        "email": "user5@email.com",
+        "password": "123456",
+        "followers": [],
+        "following": [],
+        "avatar": "../../../../assets/images/default-avatar.jpg"
+      },
+      {
+        "id": "9ece",
+        "userName": "User 6",
+        "email": "user6@email.com",
+        "password": "123456",
+        "followers": [],
+        "following": [],
+        "avatar": "../../../../assets/images/default-avatar.jpg"
+      }
+    ],
+    "posts": []
+  }
